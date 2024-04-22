@@ -1,0 +1,20 @@
+{
+  "/api/blogs": "pages/api/blogs.js",
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/404": "pages/404.html",
+  "/about": "pages/about.html",
+  "/blog-details/[id]": "pages/blog-details/[id].html",
+  "/blog-details": "pages/blog-details.html",
+  "/blog": "pages/blog.html",
+  "/case-studies/etravelo": "pages/case-studies/etravelo.html",
+  "/case-studies/serversmash": "pages/case-studies/serversmash.html",
+  "/contact": "pages/contact.html",
+  "/": "pages/index.html",
+  "/privacy-policy": "pages/privacy-policy.html",
+  "/service-details": "pages/service-details.html",
+  "/services": "pages/services.html",
+  "/terms-conditions": "pages/terms-conditions.html",
+  "/_document": "pages/_document.js",
+  "/service-details/[id]": "pages/service-details/[id].html"
+}

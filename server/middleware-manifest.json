@@ -1,0 +1,23 @@
+{
+  "sortedMiddleware": [],
+  "middleware": {},
+  "functions": {
+    "/api/blogs": {
+      "env": [],
+      "files": [
+        "server/edge-runtime-webpack.js",
+        "server/pages/api/blogs.js"
+      ],
+      "name": "pages/api/blogs",
+      "page": "/api/blogs",
+      "matchers": [
+        {
+          "regexp": "^/api/blogs$"
+        }
+      ],
+      "wasm": [],
+      "assets": []
+    }
+  },
+  "version": 2
+}
